@@ -181,7 +181,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -1611,7 +1611,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -1710,7 +1710,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -9652,7 +9652,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -12150,7 +12150,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -12161,7 +12161,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -12964,7 +12964,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -18706,7 +18706,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -18761,7 +18761,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -18827,7 +18827,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -18882,7 +18882,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -18937,7 +18937,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -18992,7 +18992,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -19058,7 +19058,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -19223,7 +19223,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -19531,7 +19531,7 @@
                     "transmission": "DVB-S2"
                 }, {
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -19586,7 +19586,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -19685,7 +19685,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -21434,7 +21434,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": " الرسوم المتحركة و الأطفال" & Docmentary",
+            "genre": "الرسوم المتحركة و الأطفال",
             "id": 15,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nat-geo-kids-abu-dhabi-us-ae.png",
             "language": "العربية",
@@ -22314,7 +22314,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -24833,7 +24833,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -25240,7 +25240,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -25438,7 +25438,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12303",
                     "modulation": "QPSK",
@@ -33413,7 +33413,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -33941,7 +33941,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": ""beam": "غرب أفريقيا"",
+                    "beam": "غرب أفريقيا",
                     "fec": "5/6",
                     "frequency": "12284",
                     "modulation": "QPSK",
@@ -37933,7 +37933,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -38636,7 +38636,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -38902,7 +38902,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -38936,7 +38936,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -38959,7 +38959,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -38982,7 +38982,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -39038,7 +39038,7 @@
                             "transmission": "DVB-S2"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -39094,7 +39094,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -39150,7 +39150,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -39173,7 +39173,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -39345,7 +39345,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -39379,7 +39379,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -39402,7 +39402,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -39433,7 +39433,7 @@
             ],
             "frequency_data": {
                 "band": "Ku",
-                "beam": ""beam": "غرب أفريقيا"",
+                "beam": "غرب أفريقيا",
                 "fec": "5/6",
                 "frequency": "12303",
                 "modulation": "QPSK",
@@ -39474,7 +39474,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -39866,7 +39866,7 @@
                             "transmission": "DVB-S2"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -39922,7 +39922,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -41966,7 +41966,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -42022,7 +42022,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -42089,7 +42089,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -42145,7 +42145,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -42201,7 +42201,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -42257,7 +42257,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -42324,7 +42324,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -42403,7 +42403,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -42505,7 +42505,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -45491,7 +45491,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -45558,7 +45558,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -45647,7 +45647,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": " الرسوم المتحركة و الأطفال" & Docmentary",
+                    "genre": "الرسوم المتحركة و الأطفال",
                     "id": 15,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nat-geo-kids-abu-dhabi-us-ae.png",
                     "language": "العربية",
@@ -48420,7 +48420,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -48849,7 +48849,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -49681,7 +49681,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56316,7 +56316,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56394,7 +56394,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56417,7 +56417,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56473,7 +56473,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56540,7 +56540,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56596,7 +56596,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56651,7 +56651,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56685,7 +56685,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56741,7 +56741,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56808,7 +56808,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -56864,7 +56864,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57104,7 +57104,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57146,7 +57146,7 @@
             ],
             "frequency_data": {
                 "band": "Ku",
-                "beam": ""beam": "غرب أفريقيا"",
+                "beam": "غرب أفريقيا",
                 "fec": "5/6",
                 "frequency": "12284",
                 "modulation": "QPSK",
@@ -57176,7 +57176,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57254,7 +57254,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57350,7 +57350,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57429,7 +57429,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57485,7 +57485,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57552,7 +57552,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57608,7 +57608,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57664,7 +57664,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57720,7 +57720,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57787,7 +57787,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57843,7 +57843,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -57972,7 +57972,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58050,7 +58050,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58073,7 +58073,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58129,7 +58129,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58196,7 +58196,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58252,7 +58252,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58307,7 +58307,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58341,7 +58341,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58397,7 +58397,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58464,7 +58464,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58520,7 +58520,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -58576,7 +58576,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12284",
                             "modulation": "QPSK",
@@ -61328,7 +61328,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": " الرسوم المتحركة و الأطفال" & Docmentary",
+                    "genre": "الرسوم المتحركة و الأطفال",
                     "id": 15,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nat-geo-kids-abu-dhabi-us-ae.png",
                     "language": "العربية",
@@ -75032,7 +75032,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -82596,7 +82596,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -83766,7 +83766,7 @@
                             "transmission": "DVB-S2"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
@@ -83800,7 +83800,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": ""beam": "غرب أفريقيا"",
+                            "beam": "غرب أفريقيا",
                             "fec": "5/6",
                             "frequency": "12303",
                             "modulation": "QPSK",
