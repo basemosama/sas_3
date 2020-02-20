@@ -335,7 +335,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "محتوي عام",
+            "genre": "الأخبار و الأعمال",
             "id": 885,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/a_news_tr.png",
             "language": "الإنجليزية",
@@ -390,7 +390,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -852,7 +852,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1266,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/addis-tv-et.png",
             "language": "الإثيوبية",
@@ -1116,7 +1116,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 337,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/alhurra-iraq.jpg",
             "language": "العربية",
@@ -1138,7 +1138,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 674,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/ahwazona-tv-sa.png",
             "language": "العربية",
@@ -1160,7 +1160,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 754,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/aic.jpg",
             "language": "العربية",
@@ -1270,7 +1270,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1353,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/aksyon_tv_international.png",
             "language": "Tagalog",
@@ -1358,7 +1358,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 859,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_ahad_tv_iq.png",
             "language": "العربية",
@@ -1402,7 +1402,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 657,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_alam_al_yawm.png",
             "language": "العربية",
@@ -1655,7 +1655,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 289,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_arabiya.png",
             "language": "العربية",
@@ -1721,7 +1721,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 291,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_hadath_ae.png",
             "language": "العربية",
@@ -1864,7 +1864,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 743,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/albaghdadia-now.png",
             "language": "العربية",
@@ -2084,7 +2084,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 454,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_ekhbariya.png",
             "language": "العربية",
@@ -2106,7 +2106,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 447,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alikhbaria-syria-sy.png",
             "language": "العربية",
@@ -2194,7 +2194,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 365,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_eshraq_tv_iq.png",
             "language": "العربية",
@@ -2282,7 +2282,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 267,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alghadye-ye.png",
             "language": "العربية",
@@ -2315,7 +2315,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 266,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alghad_tv_eg.png",
             "language": "العربية",
@@ -2381,7 +2381,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 891,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_haqeeqah_al_dawliyah.png",
             "language": "العربية",
@@ -2447,7 +2447,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 381,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-hilal-tv-sd.png",
             "language": "العربية",
@@ -2480,7 +2480,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 390,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_hiwar.png",
             "language": "العربية",
@@ -2612,7 +2612,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 602,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jamahirya_tv_ly.png",
             "language": "العربية",
@@ -2634,7 +2634,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 897,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_janoubiya_tv_tn.png",
             "language": "العربية",
@@ -2667,7 +2667,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 292,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jazeera_channel_qa.png",
             "language": "العربية",
@@ -2733,7 +2733,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 294,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jazeera_الإنجليزية.png",
             "language": "Kurdish",
@@ -2766,7 +2766,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 293,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jazeera_mubasher.png",
             "language": "العربية",
@@ -2898,7 +2898,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 851,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alkarama-news.png",
             "language": "العربية",
@@ -2920,7 +2920,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 852,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_khabar_tele_site_sy.png",
             "language": "العربية",
@@ -2964,7 +2964,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1169,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/unavailable",
             "language": "العربية",
@@ -2986,7 +2986,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 751,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/almagharibia_tv_channel.png",
             "language": "العربية",
@@ -3008,7 +3008,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 752,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/almagharibia_tv_channel2.png",
             "language": "العربية",
@@ -3140,7 +3140,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 425,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-masar-al-oula-satellite-channel-iq.png",
             "language": "العربية",
@@ -3162,7 +3162,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 407,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_masar_satellite_channel_iq.png",
             "language": "العربية",
@@ -3239,7 +3239,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1276,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_mawqef_tv.png",
             "language": "العربية",
@@ -3261,7 +3261,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1277,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_mowseliya_iq.png",
             "language": "العربية",
@@ -3283,7 +3283,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1250,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_mayadeen_tv.png",
             "language": "العربية",
@@ -3305,7 +3305,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1251,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/almydan-tv-sa.png",
             "language": "العربية",
@@ -3382,7 +3382,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 570,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_mustakillah_tv.png",
             "language": "العربية",
@@ -3503,7 +3503,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 380,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nile_news_eg.png",
             "language": "العربية",
@@ -3569,7 +3569,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 426,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_ordan_al_yoom_jo.png",
             "language": "العربية",
@@ -3690,7 +3690,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1133,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-rafidain-tv-iq.png",
             "language": "العربية",
@@ -3734,7 +3734,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1134,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alrased.png",
             "language": "العربية",
@@ -3778,7 +3778,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1220,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_rasheed_tv.png",
             "language": "العربية",
@@ -4108,7 +4108,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1325,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-sahat-tv-ye.png",
             "language": "العربية",
@@ -4196,7 +4196,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1221,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/aqsa-satellite-channel-ps.png",
             "language": "العربية",
@@ -4218,7 +4218,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 412,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alsharqya.jpg",
             "language": "الإنجليزية و العربية",
@@ -4570,7 +4570,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 720,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alalam-news-channel-syria-ir-sy.png",
             "language": "العربية",
@@ -4636,7 +4636,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 262,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/drama-al-badawya.png",
             "language": "العربية",
@@ -4680,7 +4680,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 474,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alanbar-satellite-channel-iq.png",
             "language": "العربية",
@@ -4900,7 +4900,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1380,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alebaa-tv-iq.png",
             "language": "العربية",
@@ -4922,7 +4922,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1381,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_etejah_tv_iq.png",
             "language": "العربية",
@@ -5153,7 +5153,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1389,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alhadath-alyoum-eg.png",
             "language": "العربية",
@@ -5175,7 +5175,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1390,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_hadath_news_eg.png",
             "language": "العربية",
@@ -5208,7 +5208,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1391,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_hakeka.png",
             "language": "العربية",
@@ -5439,7 +5439,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 336,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alhurra-tv-us.png",
             "language": "العربية",
@@ -5846,7 +5846,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1401,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_khalij_tv_uk.png",
             "language": "العربية",
@@ -6242,7 +6242,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 240,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/news_almajd.jpg",
             "language": "العربية",
@@ -6330,7 +6330,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 243,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_masalah_tv.png",
             "language": "العربية",
@@ -6352,7 +6352,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 244,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_masirah_tv.png",
             "language": "العربية",
@@ -6528,7 +6528,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 252,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_qanat_tv_tr.png",
             "language": "العربية",
@@ -6550,7 +6550,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 253,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-quds-today-tv-ps.png",
             "language": "العربية",
@@ -6715,7 +6715,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 260,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_shareeyah_sa.png",
             "language": "العربية",
@@ -6737,7 +6737,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 261,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alsharqiya-news-ae.png",
             "language": "العربية",
@@ -6759,7 +6759,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 61,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alsharqiya-tv-ae.png",
             "language": "العربية",
@@ -6891,7 +6891,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 268,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_taghier_jo.png",
             "language": "العربية",
@@ -6979,7 +6979,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 272,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alyaum-channel-sy.png",
             "language": "العربية",
@@ -7133,7 +7133,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 278,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/anb_jo.png",
             "language": "العربية",
@@ -7155,7 +7155,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 279,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/abs_cbn_news_channel.png",
             "language": "الإنجليزية",
@@ -7265,7 +7265,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 283,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/ann-uk.png",
             "language": "العربية",
@@ -7287,7 +7287,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 284,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/najah_broadcasting_channel_ps.png",
             "language": "العربية",
@@ -8618,7 +8618,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 338,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bangawaz-tv-iq.png",
             "language": "Kurdish",
@@ -8673,7 +8673,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 340,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_العربية.png",
             "language": "العربية",
@@ -8695,7 +8695,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 341,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc-first-uk.png",
             "language": "الإنجليزية",
@@ -8728,7 +8728,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 342,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_service_uk.png",
             "language": "الإنجليزية",
@@ -8761,7 +8761,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 343,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_news_uk.png",
             "language": "الإنجليزية",
@@ -8794,7 +8794,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 344,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_service_uk.png",
             "language": "العربية",
@@ -8816,7 +8816,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 345,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_service_uk.png",
             "language": "الإنجليزية",
@@ -9234,7 +9234,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 364,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/beladi_satellite_tv_iq.png",
             "language": "العربية",
@@ -9278,7 +9278,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 366,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/belqees_tv_ye.png",
             "language": "العربية",
@@ -10422,7 +10422,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 414,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/cira_tv.png",
             "language": "Kurdish",
@@ -10433,7 +10433,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -10554,7 +10554,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 418,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/cnbc_arabiya.png",
             "language": "العربية",
@@ -10576,7 +10576,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 419,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/unavailable",
             "language": "العربية",
@@ -10631,7 +10631,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 421,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/cnn-international-us.png",
             "language": "الإنجليزية",
@@ -10939,7 +10939,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 434,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/diwan-tv-iq.png",
             "language": "العربية",
@@ -10961,7 +10961,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 435,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/dijlah_tv_iq.png",
             "language": "العربية",
@@ -11600,7 +11600,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 23,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/dubai_one.png",
             "language": "الإنجليزية",
@@ -12117,7 +12117,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 480,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/dzair-news-dz.png",
             "language": "العربية",
@@ -12260,7 +12260,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 486,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/echorouk_tv_news_dz.png",
             "language": "العربية",
@@ -12381,7 +12381,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 491,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/el_adjwaa_dz.png",
             "language": "العربية",
@@ -12425,7 +12425,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 493,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/el_bilad_news_dz.png",
             "language": "العربية",
@@ -12469,7 +12469,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 495,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-eman-ye.png",
             "language": "العربية",
@@ -12634,7 +12634,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 502,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/elsharq-eg.png",
             "language": "العربية",
@@ -12656,7 +12656,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 503,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/elsharq-el-awast-eg.png",
             "language": "العربية",
@@ -12744,7 +12744,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 507,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/elhiwar_ettounsi.jpg",
             "language": "العربية",
@@ -12777,7 +12777,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -13283,7 +13283,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 525,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/euronews_fr.png",
             "language": "الإنجليزية",
@@ -13437,7 +13437,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 530,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/extra_news.png",
             "language": "العربية",
@@ -13745,7 +13745,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 542,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/france24.png",
             "language": "العربية & Englisg & الفرنسية",
@@ -14691,7 +14691,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 582,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/hona-baghdad-satellite-channel-iq.png",
             "language": "العربية",
@@ -14823,7 +14823,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 588,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/i24-vews-il.png",
             "language": "العربية",
@@ -15208,7 +15208,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 605,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/inews-iq.png",
             "language": "العربية",
@@ -15318,7 +15318,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 609,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/iran_safaoi.png",
             "language": "العربية",
@@ -15384,7 +15384,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 612,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/iraq_now_iq.png",
             "language": "العربية",
@@ -15527,7 +15527,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 617,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-iraqiya-news-iq.png",
             "language": "العربية و Persian",
@@ -15593,7 +15593,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 619,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/iraqia-syriac-iq.png",
             "language": "العربية",
@@ -15615,7 +15615,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 620,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/imn-turkmen-iq.png",
             "language": "العربية",
@@ -16242,7 +16242,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 648,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/jordan-now-tv-jo.png",
             "language": "العربية",
@@ -17221,7 +17221,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 680,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/kurdistan-24-iq.png",
             "language": "Kurdish",
@@ -17287,7 +17287,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 683,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/kurdsat_iq_news.png",
             "language": "العربية",
@@ -17683,7 +17683,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 699,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/218-news-ly.png",
             "language": "العربية",
@@ -17716,7 +17716,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 700,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya-al-ahrar-tv-qa.png",
             "language": "العربية",
@@ -17738,7 +17738,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 701,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya_al_hadath_ly.png",
             "language": "العربية",
@@ -17782,7 +17782,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 703,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/almarsad-ly.png",
             "language": "العربية",
@@ -17804,7 +17804,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 704,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya_future_tv_ly.png",
             "language": "العربية",
@@ -17859,7 +17859,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 706,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya-al-wataniya-ly.png",
             "language": "العربية",
@@ -17881,7 +17881,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 707,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya-elwatan-ly.png",
             "language": "العربية",
@@ -17903,7 +17903,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 708,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/unavailable",
             "language": "العربية",
@@ -17947,7 +17947,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 710,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya_panorama_channel.png",
             "language": "العربية",
@@ -18244,7 +18244,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 723,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/maan_tv_ps.png",
             "language": "العربية",
@@ -18552,7 +18552,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 736,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/masdar_tv_sa.png",
             "language": "العربية",
@@ -18728,7 +18728,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -18794,7 +18794,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -18849,7 +18849,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -18904,7 +18904,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -18926,7 +18926,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 22,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_4.png",
             "language": "الإنجليزية",
@@ -18948,7 +18948,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -19003,7 +19003,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -19047,7 +19047,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 172,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_bollywood.png",
             "language": "العربية",
@@ -19069,7 +19069,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -19102,7 +19102,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "مسلسلات",
             "id": 127,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_drama.png",
             "language": "العربية",
@@ -19113,7 +19113,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -19234,7 +19234,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -19289,7 +19289,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "مسلسلات",
             "id": 755,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_plus_drama_hd.png",
             "language": "العربية",
@@ -19311,7 +19311,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 756,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_variety.png",
             "language": "الإنجليزية",
@@ -19355,7 +19355,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 758,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbs.png",
             "language": "العربية",
@@ -19674,7 +19674,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 766,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/medi1_tv.png",
             "language": "العربية",
@@ -19696,7 +19696,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 767,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/medi1_tv.png",
             "language": "الفرنسية و العربية",
@@ -19718,7 +19718,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 768,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mekameleen_tv_eg.png",
             "language": "العربية",
@@ -19828,7 +19828,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 773,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/minbij-tv.png",
             "language": "العربية",
@@ -20323,7 +20323,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 793,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/my-cinema.png",
             "language": "الإنجليزية",
@@ -20477,7 +20477,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 800,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/family-movies.png",
             "language": "الإنجليزية",
@@ -20554,7 +20554,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 803,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/filmbox-africa.png",
             "language": "الإنجليزية",
@@ -20576,7 +20576,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 804,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/fire-movies.png",
             "language": "الإنجليزية",
@@ -20631,7 +20631,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 806,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/fox-crime-global.png",
             "language": "Indian",
@@ -20653,7 +20653,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 807,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/fox-life-us.png",
             "language": "Indian",
@@ -20675,7 +20675,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 808,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/fox-rewayat-us.png",
             "language": "Indian",
@@ -21115,7 +21115,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "Movies و Series",
+            "genre": "أفلام و مسلسلات",
             "id": 826,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/star-movies.png",
             "language": "Indian",
@@ -21357,7 +21357,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 837,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nabaa-tv-sa.png",
             "language": "العربية",
@@ -21500,7 +21500,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 843,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nbn_lb.png",
             "language": "العربية",
@@ -21962,7 +21962,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 860,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nile_tv_international_eg.png",
             "language": "الإنجليزية و الفرنسية",
@@ -22754,7 +22754,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 887,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/oman_tv_live.png",
             "language": "العربية",
@@ -22996,7 +22996,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 895,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/orient-news-ae.png",
             "language": "العربية",
@@ -23678,7 +23678,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 922,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/palestinenews.jpg",
             "language": "العربية",
@@ -23766,7 +23766,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 925,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/palestine_al_yawm.png",
             "language": "العربية",
@@ -23777,7 +23777,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -23854,7 +23854,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 929,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/payam_iq_tv.png",
             "language": "Kurdish",
@@ -24107,7 +24107,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 940,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/press_tv.png",
             "language": "الإنجليزية",
@@ -24129,7 +24129,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 941,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/pyramid-classic.png",
             "language": "العربية",
@@ -28793,7 +28793,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1131,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/rojava_tv.png",
             "language": "Kurdish",
@@ -28815,7 +28815,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1132,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/ronahi_tv.png",
             "language": "Kurdish",
@@ -29255,7 +29255,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1142,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/rt.jpg",
             "language": "العربية",
@@ -29981,7 +29981,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 63,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/sa_24_tv.png",
             "language": "العربية",
@@ -30025,7 +30025,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1172,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/unavailable",
             "language": "العربية",
@@ -30157,7 +30157,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1175,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/saudi_mubasher.png",
             "language": "العربية",
@@ -30960,7 +30960,7 @@
             "encryption": "قناة مجانية",
             "frequencyData": [{
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -31037,7 +31037,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1204,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/sky-news-arabia-uk.png",
             "language": "العربية",
@@ -31059,7 +31059,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1205,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/unavailable",
             "language": "العربية",
@@ -31081,7 +31081,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1206,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/sky-news-uk.png",
             "language": "الإنجليزية",
@@ -31345,7 +31345,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1216,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/speda-channel-iq.png",
             "language": "العربية",
@@ -32896,7 +32896,7 @@
                     "transmission": "DVB-S2"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1283,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/trt_world_tr.png",
             "language": "الإنجليزية",
@@ -33270,7 +33270,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1297,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/voa_tv_africa_24.png",
             "language": "الإنجليزية",
@@ -33424,7 +33424,7 @@
                     "transmission": "DVB-S"
                 }, {
                     "band": "Ku",
-                    "beam": "East MENA",
+                    "beam": "شرق الشرق الأوسط",
                     "fec": "5/6",
                     "frequency": "11270",
                     "modulation": "QPSK",
@@ -33468,7 +33468,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1305,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/watan_tv_eg.png",
             "language": "العربية",
@@ -33688,7 +33688,7 @@
                     "transmission": "DVB-S"
                 }
             ],
-            "genre": "News و Business",
+            "genre": "الأخبار و الأعمال",
             "id": 1312,
             "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/yemen-today-tv-ye.png",
             "language": "العربية",
@@ -36166,7 +36166,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 743,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/albaghdadia-now.png",
                     "language": "العربية",
@@ -36212,7 +36212,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 852,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_khabar_tele_site_sy.png",
                     "language": "العربية",
@@ -36337,7 +36337,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 243,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_masalah_tv.png",
                     "language": "العربية",
@@ -36544,7 +36544,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 435,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/dijlah_tv_iq.png",
                     "language": "العربية",
@@ -36715,7 +36715,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 612,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/iraq_now_iq.png",
                     "language": "العربية",
@@ -37017,7 +37017,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1401,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_khalij_tv_uk.png",
                     "language": "العربية",
@@ -37155,7 +37155,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 338,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bangawaz-tv-iq.png",
                     "language": "Kurdish",
@@ -37201,7 +37201,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 414,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/cira_tv.png",
                     "language": "Kurdish",
@@ -37270,7 +37270,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 680,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/kurdistan-24-iq.png",
                     "language": "Kurdish",
@@ -37384,7 +37384,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 929,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/payam_iq_tv.png",
                     "language": "Kurdish",
@@ -37453,7 +37453,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1132,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/ronahi_tv.png",
                     "language": "Kurdish",
@@ -37676,7 +37676,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 253,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-quds-today-tv-ps.png",
                     "language": "العربية",
@@ -37699,7 +37699,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 278,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/anb_jo.png",
                     "language": "العربية",
@@ -38033,7 +38033,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 454,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_ekhbariya.png",
                     "language": "العربية",
@@ -39161,7 +39161,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 767,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/medi1_tv.png",
                     "language": "الفرنسية و العربية",
@@ -40011,7 +40011,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 766,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/medi1_tv.png",
                     "language": "العربية",
@@ -40140,7 +40140,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 266,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alghad_tv_eg.png",
                     "language": "العربية",
@@ -40465,7 +40465,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 252,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_qanat_tv_tr.png",
                     "language": "العربية",
@@ -40682,7 +40682,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 707,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya-elwatan-ly.png",
                     "language": "العربية",
@@ -40705,7 +40705,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 708,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/unavailable",
                     "language": "العربية",
@@ -40774,7 +40774,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 895,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/orient-news-ae.png",
                     "language": "العربية",
@@ -40974,7 +40974,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 891,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_haqeeqah_al_dawliyah.png",
                     "language": "العربية",
@@ -41089,7 +41089,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1381,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_etejah_tv_iq.png",
                     "language": "العربية",
@@ -41123,7 +41123,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1391,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_hakeka.png",
                     "language": "العربية",
@@ -41146,7 +41146,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 268,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_taghier_jo.png",
                     "language": "العربية",
@@ -41238,7 +41238,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 491,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/el_adjwaa_dz.png",
                     "language": "العربية",
@@ -41307,7 +41307,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 648,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/jordan-now-tv-jo.png",
                     "language": "العربية",
@@ -41433,7 +41433,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 699,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/218-news-ly.png",
                     "language": "العربية",
@@ -41672,7 +41672,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1297,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/voa_tv_africa_24.png",
                     "language": "الإنجليزية",
@@ -41711,7 +41711,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "محتوي عام",
+                    "genre": "الأخبار و الأعمال",
                     "id": 885,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/a_news_tr.png",
                     "language": "الإنجليزية",
@@ -41745,7 +41745,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1133,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-rafidain-tv-iq.png",
                     "language": "العربية",
@@ -41864,7 +41864,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -41887,7 +41887,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -41943,7 +41943,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -41988,7 +41988,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42055,7 +42055,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42111,7 +42111,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42167,7 +42167,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42189,7 +42189,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 22,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_4.png",
                     "language": "الإنجليزية",
@@ -42212,7 +42212,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42268,7 +42268,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42312,7 +42312,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 172,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_bollywood.png",
                     "language": "العربية",
@@ -42335,7 +42335,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42368,7 +42368,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "مسلسلات",
                     "id": 127,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_drama.png",
                     "language": "العربية",
@@ -42380,7 +42380,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42414,7 +42414,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42459,7 +42459,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42482,7 +42482,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42516,7 +42516,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -42547,7 +42547,7 @@
             ],
             "frequency_data": {
                 "band": "Ku",
-                "beam": "East MENA",
+                "beam": "شرق الشرق الأوسط",
                 "fec": "5/6",
                 "frequency": "11270",
                 "modulation": "QPSK",
@@ -42600,7 +42600,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1353,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/aksyon_tv_international.png",
                     "language": "Tagalog",
@@ -42623,7 +42623,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 279,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/abs_cbn_news_channel.png",
                     "language": "الإنجليزية",
@@ -43482,7 +43482,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 421,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/cnn-international-us.png",
                     "language": "الإنجليزية",
@@ -45377,7 +45377,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 61,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alsharqiya-tv-ae.png",
                     "language": "العربية",
@@ -45412,7 +45412,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -45524,7 +45524,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -45569,7 +45569,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -45613,7 +45613,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 172,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_bollywood.png",
                     "language": "العربية",
@@ -45732,7 +45732,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1266,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/addis-tv-et.png",
                     "language": "الإثيوبية",
@@ -45755,7 +45755,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 426,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_ordan_al_yoom_jo.png",
                     "language": "العربية",
@@ -45973,7 +45973,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 701,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya_al_hadath_ly.png",
                     "language": "العربية",
@@ -45996,7 +45996,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 925,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/palestine_al_yawm.png",
                     "language": "العربية",
@@ -46019,7 +46019,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 941,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/pyramid-classic.png",
                     "language": "العربية",
@@ -46276,7 +46276,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 751,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/almagharibia_tv_channel.png",
                     "language": "العربية",
@@ -46299,7 +46299,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 425,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-masar-al-oula-satellite-channel-iq.png",
                     "language": "العربية",
@@ -46368,7 +46368,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 260,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_shareeyah_sa.png",
                     "language": "العربية",
@@ -46414,7 +46414,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 503,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/elsharq-el-awast-eg.png",
                     "language": "العربية",
@@ -46598,7 +46598,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1172,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/unavailable",
                     "language": "العربية",
@@ -46786,7 +46786,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1276,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_mawqef_tv.png",
                     "language": "العربية",
@@ -46809,7 +46809,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 272,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alyaum-channel-sy.png",
                     "language": "العربية",
@@ -46900,7 +46900,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 495,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-eman-ye.png",
                     "language": "العربية",
@@ -46923,7 +46923,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 502,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/elsharq-eg.png",
                     "language": "العربية",
@@ -46969,7 +46969,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 588,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/i24-vews-il.png",
                     "language": "العربية",
@@ -46992,7 +46992,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 768,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mekameleen_tv_eg.png",
                     "language": "العربية",
@@ -47015,7 +47015,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 773,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/minbij-tv.png",
                     "language": "العربية",
@@ -47038,7 +47038,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1131,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/rojava_tv.png",
                     "language": "Kurdish",
@@ -47107,7 +47107,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1216,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/speda-channel-iq.png",
                     "language": "العربية",
@@ -47153,7 +47153,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1305,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/watan_tv_eg.png",
                     "language": "العربية",
@@ -47255,7 +47255,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1312,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/yemen-today-tv-ye.png",
                     "language": "العربية",
@@ -47363,7 +47363,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 261,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alsharqiya-news-ae.png",
                     "language": "العربية",
@@ -47535,7 +47535,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1142,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/rt.jpg",
                     "language": "العربية",
@@ -47677,7 +47677,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 340,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_العربية.png",
                     "language": "العربية",
@@ -47711,7 +47711,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 344,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_service_uk.png",
                     "language": "العربية",
@@ -47734,7 +47734,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 345,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_service_uk.png",
                     "language": "الإنجليزية",
@@ -47746,7 +47746,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -47824,7 +47824,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 418,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/cnbc_arabiya.png",
                     "language": "العربية",
@@ -47847,7 +47847,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 419,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/unavailable",
                     "language": "العربية",
@@ -47938,7 +47938,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 525,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/euronews_fr.png",
                     "language": "الإنجليزية",
@@ -47994,7 +47994,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 542,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/france24.png",
                     "language": "العربية & Englisg & الفرنسية",
@@ -48175,7 +48175,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1204,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/sky-news-arabia-uk.png",
                     "language": "العربية",
@@ -48198,7 +48198,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1205,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/unavailable",
                     "language": "العربية",
@@ -48688,7 +48688,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 267,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alghadye-ye.png",
                     "language": "العربية",
@@ -48734,7 +48734,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1220,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_rasheed_tv.png",
                     "language": "العربية",
@@ -49345,7 +49345,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 700,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya-al-ahrar-tv-qa.png",
                     "language": "العربية",
@@ -49658,7 +49658,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 337,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/alhurra-iraq.jpg",
                     "language": "العربية",
@@ -49725,7 +49725,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 289,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_arabiya.png",
                     "language": "العربية",
@@ -49759,7 +49759,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1391,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_hakeka.png",
                     "language": "العربية",
@@ -49826,7 +49826,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 336,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alhurra-tv-us.png",
                     "language": "العربية",
@@ -50328,7 +50328,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 337,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/alhurra-iraq.jpg",
                     "language": "العربية",
@@ -50419,7 +50419,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1390,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_hadath_news_eg.png",
                     "language": "العربية",
@@ -50486,7 +50486,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 336,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alhurra-tv-us.png",
                     "language": "العربية",
@@ -50555,7 +50555,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 605,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/inews-iq.png",
                     "language": "العربية",
@@ -50612,7 +50612,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 704,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya_future_tv_ly.png",
                     "language": "العربية",
@@ -51050,7 +51050,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 674,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/ahwazona-tv-sa.png",
                     "language": "العربية",
@@ -51096,7 +51096,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 752,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/almagharibia_tv_channel2.png",
                     "language": "العربية",
@@ -51165,7 +51165,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 720,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alalam-news-channel-syria-ir-sy.png",
                     "language": "العربية",
@@ -51211,7 +51211,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 366,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/belqees_tv_ye.png",
                     "language": "العربية",
@@ -51280,7 +51280,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 703,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/almarsad-ly.png",
                     "language": "العربية",
@@ -51349,7 +51349,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 736,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/masdar_tv_sa.png",
                     "language": "العربية",
@@ -51475,7 +51475,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1170,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/sa_24_tv.png",
                     "language": "العربية",
@@ -51629,7 +51629,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 754,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/aic.jpg",
                     "language": "العربية",
@@ -51721,7 +51721,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 843,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nbn_lb.png",
                     "language": "العربية",
@@ -53223,7 +53223,7 @@
                     "encryption": "قناة مجانية",
                     "frequencyData": [{
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -53386,7 +53386,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 859,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_ahad_tv_iq.png",
                     "language": "العربية",
@@ -53432,7 +53432,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1277,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_mowseliya_iq.png",
                     "language": "العربية",
@@ -53558,7 +53558,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1312,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/yemen-today-tv-ye.png",
                     "language": "العربية",
@@ -53597,7 +53597,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 657,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_alam_al_yawm.png",
                     "language": "العربية",
@@ -53643,7 +53643,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 365,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_eshraq_tv_iq.png",
                     "language": "العربية",
@@ -53689,7 +53689,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1325,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-sahat-tv-ye.png",
                     "language": "العربية",
@@ -53896,7 +53896,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 837,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nabaa-tv-sa.png",
                     "language": "العربية",
@@ -53919,7 +53919,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 940,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/press_tv.png",
                     "language": "الإنجليزية",
@@ -55850,7 +55850,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 766,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/medi1_tv.png",
                     "language": "العربية",
@@ -56023,7 +56023,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 381,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-hilal-tv-sd.png",
                     "language": "العربية",
@@ -56137,7 +56137,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 340,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_العربية.png",
                     "language": "العربية",
@@ -56193,7 +56193,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 542,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/france24.png",
                     "language": "العربية & Englisg & الفرنسية",
@@ -56360,7 +56360,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 289,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_arabiya.png",
                     "language": "العربية",
@@ -56405,7 +56405,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 291,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_hadath_ae.png",
                     "language": "العربية",
@@ -56439,7 +56439,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -56506,7 +56506,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -56562,7 +56562,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -56618,7 +56618,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -56640,7 +56640,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 22,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_4.png",
                     "language": "الإنجليزية",
@@ -56696,7 +56696,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -56752,7 +56752,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -56796,7 +56796,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 172,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_bollywood.png",
                     "language": "العربية",
@@ -56819,7 +56819,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -56852,7 +56852,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "مسلسلات",
                     "id": 127,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_drama.png",
                     "language": "العربية",
@@ -56875,7 +56875,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -57115,7 +57115,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -57220,7 +57220,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 289,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_arabiya.png",
                     "language": "العربية",
@@ -57265,7 +57265,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 291,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_hadath_ae.png",
                     "language": "العربية",
@@ -57394,7 +57394,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 289,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_arabiya.png",
                     "language": "العربية",
@@ -57451,7 +57451,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -57518,7 +57518,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -57574,7 +57574,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -57630,7 +57630,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -57652,7 +57652,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 22,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_4.png",
                     "language": "الإنجليزية",
@@ -57675,7 +57675,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -57731,7 +57731,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -57775,7 +57775,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 172,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_bollywood.png",
                     "language": "العربية",
@@ -57798,7 +57798,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -57831,7 +57831,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "مسلسلات",
                     "id": 127,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_drama.png",
                     "language": "العربية",
@@ -57854,7 +57854,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -57910,7 +57910,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "مسلسلات",
                     "id": 755,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_plus_drama_hd.png",
                     "language": "العربية",
@@ -57933,7 +57933,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 756,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_variety.png",
                     "language": "الإنجليزية",
@@ -58016,7 +58016,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 289,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_arabiya.png",
                     "language": "العربية",
@@ -58061,7 +58061,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 291,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/08/al_hadath_ae.png",
                     "language": "العربية",
@@ -58095,7 +58095,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -58162,7 +58162,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -58218,7 +58218,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -58274,7 +58274,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -58296,7 +58296,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 22,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_4.png",
                     "language": "الإنجليزية",
@@ -58352,7 +58352,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -58408,7 +58408,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -58452,7 +58452,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 172,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_bollywood.png",
                     "language": "العربية",
@@ -58475,7 +58475,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -58508,7 +58508,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "مسلسلات",
                     "id": 127,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbc_ae_drama.png",
                     "language": "العربية",
@@ -58531,7 +58531,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -58587,7 +58587,7 @@
                             "transmission": "DVB-S"
                         }, {
                             "band": "Ku",
-                            "beam": "East MENA",
+                            "beam": "شرق الشرق الأوسط",
                             "fec": "5/6",
                             "frequency": "11270",
                             "modulation": "QPSK",
@@ -58910,7 +58910,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 542,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/france24.png",
                     "language": "العربية & Englisg & الفرنسية",
@@ -59001,7 +59001,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1204,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/sky-news-arabia-uk.png",
                     "language": "العربية",
@@ -59131,7 +59131,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 390,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_hiwar.png",
                     "language": "العربية",
@@ -59165,7 +59165,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 292,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jazeera_channel_qa.png",
                     "language": "العربية",
@@ -59233,7 +59233,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 294,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jazeera_الإنجليزية.png",
                     "language": "Kurdish",
@@ -59267,7 +59267,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 293,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jazeera_mubasher.png",
                     "language": "العربية",
@@ -59347,7 +59347,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1380,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alebaa-tv-iq.png",
                     "language": "العربية",
@@ -60051,7 +60051,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 447,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alikhbaria-syria-sy.png",
                     "language": "العربية",
@@ -60120,7 +60120,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1169,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/unavailable",
                     "language": "العربية",
@@ -60143,7 +60143,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1250,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_mayadeen_tv.png",
                     "language": "العربية",
@@ -60166,7 +60166,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1134,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alrased.png",
                     "language": "العربية",
@@ -60223,7 +60223,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 609,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/iran_safaoi.png",
                     "language": "العربية",
@@ -60246,7 +60246,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 710,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya_panorama_channel.png",
                     "language": "العربية",
@@ -61536,7 +61536,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 454,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_ekhbariya.png",
                     "language": "العربية",
@@ -62251,7 +62251,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1175,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/saudi_mubasher.png",
                     "language": "العربية",
@@ -62546,7 +62546,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 454,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_ekhbariya.png",
                     "language": "العربية",
@@ -63453,7 +63453,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1175,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/saudi_mubasher.png",
                     "language": "العربية",
@@ -63748,7 +63748,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 454,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_ekhbariya.png",
                     "language": "العربية",
@@ -64163,7 +64163,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 793,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/my-cinema.png",
                     "language": "الإنجليزية",
@@ -64232,7 +64232,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 803,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/filmbox-africa.png",
                     "language": "الإنجليزية",
@@ -64908,7 +64908,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1175,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/saudi_mubasher.png",
                     "language": "العربية",
@@ -65203,7 +65203,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 454,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_ekhbariya.png",
                     "language": "العربية",
@@ -66202,7 +66202,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 454,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_ekhbariya.png",
                     "language": "العربية",
@@ -67240,7 +67240,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 364,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/beladi_satellite_tv_iq.png",
                     "language": "العربية",
@@ -68001,7 +68001,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 530,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/extra_news.png",
                     "language": "العربية",
@@ -68154,7 +68154,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 390,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_hiwar.png",
                     "language": "العربية",
@@ -68762,7 +68762,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 244,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_masirah_tv.png",
                     "language": "العربية",
@@ -69431,7 +69431,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 897,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_janoubiya_tv_tn.png",
                     "language": "العربية",
@@ -69500,7 +69500,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 507,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/elhiwar_ettounsi.jpg",
                     "language": "العربية",
@@ -69828,7 +69828,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 602,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jamahirya_tv_ly.png",
                     "language": "العربية",
@@ -70519,7 +70519,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 292,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jazeera_channel_qa.png",
                     "language": "العربية",
@@ -70587,7 +70587,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 294,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jazeera_الإنجليزية.png",
                     "language": "Kurdish",
@@ -70621,7 +70621,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 293,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_jazeera_mubasher.png",
                     "language": "العربية",
@@ -70967,7 +70967,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 343,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_news_uk.png",
                     "language": "الإنجليزية",
@@ -71254,7 +71254,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 706,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya-al-wataniya-ly.png",
                     "language": "العربية",
@@ -71476,7 +71476,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 851,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alkarama-news.png",
                     "language": "العربية",
@@ -71670,7 +71670,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 480,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/dzair-news-dz.png",
                     "language": "العربية",
@@ -71739,7 +71739,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 582,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/hona-baghdad-satellite-channel-iq.png",
                     "language": "العربية",
@@ -73759,7 +73759,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 407,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_masar_satellite_channel_iq.png",
                     "language": "العربية",
@@ -73793,7 +73793,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1133,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-rafidain-tv-iq.png",
                     "language": "العربية",
@@ -73980,7 +73980,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 380,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nile_news_eg.png",
                     "language": "العربية",
@@ -74150,7 +74150,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 860,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nile_tv_international_eg.png",
                     "language": "الإنجليزية و الفرنسية",
@@ -74189,7 +74189,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1251,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/almydan-tv-sa.png",
                     "language": "العربية",
@@ -74326,7 +74326,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 860,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nile_tv_international_eg.png",
                     "language": "الإنجليزية و الفرنسية",
@@ -74434,7 +74434,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1389,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alhadath-alyoum-eg.png",
                     "language": "العربية",
@@ -74501,7 +74501,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 336,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alhurra-tv-us.png",
                     "language": "العربية",
@@ -74676,7 +74676,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 570,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al_mustakillah_tv.png",
                     "language": "العربية",
@@ -74699,7 +74699,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1221,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/aqsa-satellite-channel-ps.png",
                     "language": "العربية",
@@ -74837,7 +74837,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 486,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/echorouk_tv_news_dz.png",
                     "language": "العربية",
@@ -74894,7 +74894,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 493,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/el_bilad_news_dz.png",
                     "language": "العربية",
@@ -75173,7 +75173,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 380,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/nile_news_eg.png",
                     "language": "العربية",
@@ -75207,7 +75207,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 342,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_service_uk.png",
                     "language": "الإنجليزية",
@@ -75241,7 +75241,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 344,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_service_uk.png",
                     "language": "العربية",
@@ -78255,7 +78255,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 683,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/kurdsat_iq_news.png",
                     "language": "العربية",
@@ -78675,7 +78675,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 412,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alsharqya.jpg",
                     "language": "الإنجليزية و العربية",
@@ -78709,7 +78709,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 418,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/cnbc_arabiya.png",
                     "language": "العربية",
@@ -79059,7 +79059,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 758,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/mbs.png",
                     "language": "العربية",
@@ -79284,7 +79284,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 262,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/drama-al-badawya.png",
                     "language": "العربية",
@@ -79794,7 +79794,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 474,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/alanbar-satellite-channel-iq.png",
                     "language": "العربية",
@@ -79840,7 +79840,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 283,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/ann-uk.png",
                     "language": "العربية",
@@ -79886,7 +79886,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 434,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/diwan-tv-iq.png",
                     "language": "العربية",
@@ -80203,7 +80203,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 421,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/cnn-international-us.png",
                     "language": "الإنجليزية",
@@ -80260,7 +80260,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 706,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/libya-al-wataniya-ly.png",
                     "language": "العربية",
@@ -81035,7 +81035,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 617,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-iraqiya-news-iq.png",
                     "language": "العربية و Persian",
@@ -81160,7 +81160,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1142,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/rt.jpg",
                     "language": "العربية",
@@ -81520,7 +81520,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 240,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/news_almajd.jpg",
                     "language": "العربية",
@@ -81593,7 +81593,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 284,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/najah_broadcasting_channel_ps.png",
                     "language": "العربية",
@@ -81650,7 +81650,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 723,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/maan_tv_ps.png",
                     "language": "العربية",
@@ -81841,7 +81841,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 922,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/palestinenews.jpg",
                     "language": "العربية",
@@ -81982,7 +81982,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 341,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc-first-uk.png",
                     "language": "الإنجليزية",
@@ -83206,7 +83206,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 922,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/palestinenews.jpg",
                     "language": "العربية",
@@ -83416,7 +83416,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 800,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/family-movies.png",
                     "language": "الإنجليزية",
@@ -83439,7 +83439,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 804,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/fire-movies.png",
                     "language": "الإنجليزية",
@@ -83581,7 +83581,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 342,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_service_uk.png",
                     "language": "الإنجليزية",
@@ -83631,7 +83631,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 343,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/bbc_world_news_uk.png",
                     "language": "الإنجليزية",
@@ -83687,7 +83687,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 542,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/france24.png",
                     "language": "العربية & Englisg & الفرنسية",
@@ -83867,7 +83867,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 766,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/medi1_tv.png",
                     "language": "العربية",
@@ -83980,7 +83980,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1283,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/trt_world_tr.png",
                     "language": "الإنجليزية",
@@ -85335,7 +85335,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 1206,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/sky-news-uk.png",
                     "language": "الإنجليزية",
@@ -85596,7 +85596,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 23,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/dubai_one.png",
                     "language": "الإنجليزية",
@@ -85951,7 +85951,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 23,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/dubai_one.png",
                     "language": "الإنجليزية",
@@ -86868,7 +86868,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 617,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/al-iraqiya-news-iq.png",
                     "language": "العربية و Persian",
@@ -86936,7 +86936,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 619,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/iraqia-syriac-iq.png",
                     "language": "العربية",
@@ -86959,7 +86959,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 620,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/imn-turkmen-iq.png",
                     "language": "العربية",
@@ -88141,7 +88141,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 806,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/fox-crime-global.png",
                     "language": "Indian",
@@ -88164,7 +88164,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 807,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/fox-life-us.png",
                     "language": "Indian",
@@ -88187,7 +88187,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 808,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/fox-rewayat-us.png",
                     "language": "Indian",
@@ -88256,7 +88256,7 @@
                             "transmission": "DVB-S2"
                         }
                     ],
-                    "genre": "Movies و Series",
+                    "genre": "أفلام و مسلسلات",
                     "id": 826,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/star-movies.png",
                     "language": "Indian",
@@ -88802,7 +88802,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 887,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/oman_tv_live.png",
                     "language": "العربية",
@@ -89296,7 +89296,7 @@
                             "transmission": "DVB-S"
                         }
                     ],
-                    "genre": "News و Business",
+                    "genre": "الأخبار و الأعمال",
                     "id": 887,
                     "image_url": "https://aghanielcartoon.files.wordpress.com/2019/09/oman_tv_live.png",
                     "language": "العربية",
@@ -93107,8 +93107,8 @@
         }
     ],
     "update": {
-        "main_channel": 2,
-        "channels": 3,
-        "frequencies": 3
+        "main_channel": 3,
+        "channels": 4,
+        "frequencies": 4
     }
 }
